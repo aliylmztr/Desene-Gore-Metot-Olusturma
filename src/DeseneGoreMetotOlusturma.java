@@ -1,12 +1,6 @@
-# Desene-Gore-Metot-Olusturma
-Java Desene Göre Metot Oluşturma
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     static void figure(int a) {
         System.out.print(a + " ");
         if (a <= 0) {
